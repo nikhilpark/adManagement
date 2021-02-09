@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+  .navbg{
+    background-color:rgb(14, 155, 136);
+    justify-content: center;
+  }
+.row {
+
+    justify-content:center;
+    padding-top: 5vh;
+
+
+}
+
+.adCont{
+ display: inline-block; 
+ width:33%;
+ justify-content: center;
+ background-color:bisque;
+ align-items: center;
+ padding-left: 2vw;
+ margin-top: 10vh;
+ transform:scale(0.93);
+ padding-top: 2vh; 
+} 
+
+.adCont:hover{
+  transform:scale(1.1);
+
+}
